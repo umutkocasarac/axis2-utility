@@ -1,4 +1,4 @@
-package com.umut.pool.axis2.util;
+package com.umut.axis2.pool.util;
 
 import org.apache.axis2.AxisFault;
 import org.apache.axis2.context.ConfigurationContext;

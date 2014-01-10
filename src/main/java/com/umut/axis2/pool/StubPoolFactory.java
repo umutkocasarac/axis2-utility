@@ -10,7 +10,7 @@ import org.apache.commons.pool2.PooledObject;
 import org.apache.commons.pool2.impl.DefaultPooledObject;
 import org.apache.log4j.Logger;
 
-import com.umut.pool.axis2.util.Axis2Utility;
+import com.umut.axis2.pool.util.Axis2Utility;
 
 /**
  * 
